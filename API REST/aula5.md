@@ -39,6 +39,3 @@ Dessa forma HTTPS deixa de ser opcional como no OAuth 1 e se torna obrigatório 
 # Melhorias do OAuth 2 em relação ao OAuth1: 
 - Pode ser utilizado por dispositivos mobile
 - Pode ser utilizado por dispositivos IoT
-
-
-
