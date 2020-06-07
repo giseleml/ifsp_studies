@@ -34,3 +34,4 @@ Também atualiza recursos, mas ao contrário do método PUT, quando um trecho n�
 
 ## DELETE
 Apaga os recursos, sem precisar informar seus dados. O método é chamado em cima da URL do recurso. 
+
