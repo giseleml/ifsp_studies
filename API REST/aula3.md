@@ -41,5 +41,3 @@ Técnica em que todo o estado de conversação entre cliente e servidor seja man
 
 - Sem HATEOAS: /hoteis/<id do hotel>/quartos
 - Com HATEOAS: Quebramos essa URL em duas /hoteis/id e /quartos, e referenciamos os quartos à partir dos hóteis. 
-
-
