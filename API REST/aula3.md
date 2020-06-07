@@ -37,7 +37,7 @@ Parâmetro que passamos no corpo da requisição.
 ### HATEOAS (Hypermedia As The Engine Of Application State)
 Técnica em que todo o estado de conversação entre cliente e servidor seja mantido pela própria hipermídia. 
 
-- Hipermídia: conteúdo que tem referências para outras mídias. 
+- Hipermídia: conteúdo que tem referências para outras mídias. Diferentemente de multimídia, não é a mera reunião dos meios existentes, e sim a fusão desses meios a partir de elementos não-lineares
 
 - Sem HATEOAS: /hoteis/<id do hotel>/quartos
 - Com HATEOAS: Quebramos essa URL em duas /hoteis/id e /quartos, e referenciamos os quartos à partir dos hóteis. 
